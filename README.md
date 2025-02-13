@@ -1,9 +1,8 @@
-
 <h1 align="center" style="font-size:3rem; background: -webkit-linear-gradient(#ff6b6b, #556270); -webkit-background-clip: text; -webkit-text-fill-color: transparent;">
   Hi 👋, I'm Vishal Bharath
 </h1>
 <h3 align="center" style="background: -webkit-linear-gradient(#00c6ff, #0072ff); -webkit-background-clip: text; -webkit-text-fill-color: transparent;">
-  A Passionate Machine Learning Engineer from India
+  A Skilled Full Stack Developer and Machine Learning Engineer
 </h3>
 
 <p align="center">
@@ -24,9 +23,9 @@
 - 👨‍💻 All of my projects are available at [GitHub Repositories](https://github.com/vishalbharath?tab=repositories)
 - 📫 Reach me at **vishalbharathonly@gmail.com**
 - 📄 Know about my experiences [View Resume](https://drive.google.com/file/d/1Nhs5uQYcUYnmhc68nZZtMoGkYs77wGBg/view?usp=sharing)
-- 💡 I have expertise in **Full Stack Development** and **Machine Learning**.
-- 🌱 Currently exploring **AI-driven applications** and **cloud computing**.
-- 🏆 Passionate about solving real-world problems using **technology and innovation**.
+- 💡 I am a **Full Stack Developer** and **Machine Learning Engineer** with a passion for building intelligent applications and scalable web solutions.
+- 🌱 Currently exploring **AI-driven applications**, **cloud computing**, and **deep learning**.
+- 🏆 Passionate about solving real-world problems using **technology, data, and innovation**.
 
 ---
 
@@ -66,4 +65,3 @@
 
 ### 🎵 Fun Fact:
 > "Machine Learning is like cooking; you need the right ingredients (data), a good recipe (algorithm), and patience (training)."
-```
