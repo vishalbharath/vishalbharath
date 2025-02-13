@@ -1,4 +1,4 @@
-```md
+
 <h1 align="center" style="font-size:3rem; background: -webkit-linear-gradient(#ff6b6b, #556270); -webkit-background-clip: text; -webkit-text-fill-color: transparent;">
   Hi 👋, I'm Vishal Bharath
 </h1>
